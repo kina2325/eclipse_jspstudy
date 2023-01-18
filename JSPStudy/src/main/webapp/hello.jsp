@@ -17,7 +17,12 @@
 	//document.write("<h1>"+hello+"<h1>");
 	//</script>
 	%>
+<<<<<<< HEAD
 	<%=str %>
 	
+=======
+	<hr>
+	str의 값출력=<%=str %>
+>>>>>>> refs/heads/hotfix
 </body>
 </html>
