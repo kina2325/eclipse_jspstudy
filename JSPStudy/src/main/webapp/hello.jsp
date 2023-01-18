@@ -10,6 +10,7 @@
 <%
 	//스크립트릿->자바코드를 사용할수있도록 만들어주는 영역
 	String str="홍길동";
+	//document.write("Str="+str);
 	//System.out.println("str="+str);//디버깅할때 사용
 	out.println("<h1>"+str+"</h1>");//jsp에서 웹에서 출력하는거
 	//<script>스크립트 태그 사용불가
