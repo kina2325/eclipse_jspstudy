@@ -17,5 +17,7 @@
 	//document.write("<h1>"+hello+"<h1>");
 	//</script>
 	%>
+	<hr>
+	str의 값출력=<%=str %>
 </body>
 </html>
