@@ -17,5 +17,6 @@
 	//document.write("<h1>"+hello+"<h1>");
 	//</script>
 	%>
+	<%=str %>
 </body>
 </html>
