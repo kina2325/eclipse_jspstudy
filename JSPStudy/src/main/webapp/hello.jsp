@@ -18,5 +18,6 @@
 	//</script>
 	%>
 	<%=str %>
+	
 </body>
 </html>
